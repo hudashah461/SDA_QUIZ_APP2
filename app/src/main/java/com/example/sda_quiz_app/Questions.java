@@ -18,4 +18,4 @@ public class Questions {
         final ArrayList<Boolean> answers = new ArrayList<Boolean>(Arrays.asList(arrayy));
     }
 
-}
+
